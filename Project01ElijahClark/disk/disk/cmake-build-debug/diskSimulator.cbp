@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="diskSimulator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="disk_timer">
+				<Option output="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/bin/disk_timer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__DEBUG_DISK"/>
+					<Add option="-D__DEBUG_TIMER"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 disk_timer"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="disk_timer/fast">
+				<Option output="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/bin/disk_timer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__DEBUG_DISK"/>
+					<Add option="-D__DEBUG_TIMER"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 disk_timer/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="disk">
+				<Option output="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/bin/disk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__DEBUG_DISK"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 disk"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="disk/fast">
+				<Option output="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/bin/disk" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/bin"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-D__DEBUG_DISK"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 disk/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/disk.c">
+			<Option target="disk_timer"/>
+			<Option target="disk"/>
+		</Unit>
+		<Unit filename="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/disk.h">
+			<Option target="disk_timer"/>
+			<Option target="disk"/>
+		</Unit>
+		<Unit filename="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/test_disk.c">
+			<Option target="disk_timer"/>
+			<Option target="disk"/>
+		</Unit>
+		<Unit filename="/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

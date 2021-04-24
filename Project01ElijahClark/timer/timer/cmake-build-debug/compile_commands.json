@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/eli/Desktop/comp362/Project01ElijahClark/timer/timer/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/timer_posix.dir/timer_posix.c.o   -c /home/eli/Desktop/comp362/Project01ElijahClark/timer/timer/timer_posix.c",
+  "file": "/home/eli/Desktop/comp362/Project01ElijahClark/timer/timer/timer_posix.c"
+}
+]

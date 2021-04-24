@@ -1,0 +1,3 @@
+/home/eli/Desktop/comp362/Project01ElijahClark/timer/timer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eli/Desktop/comp362/Project01ElijahClark/timer/timer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eli/Desktop/comp362/Project01ElijahClark/timer/timer/cmake-build-debug/CMakeFiles/timer_posix.dir

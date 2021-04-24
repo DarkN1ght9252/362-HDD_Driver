@@ -1,0 +1,4 @@
+/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/CMakeFiles/disk_timer.dir
+/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug/CMakeFiles/disk.dir

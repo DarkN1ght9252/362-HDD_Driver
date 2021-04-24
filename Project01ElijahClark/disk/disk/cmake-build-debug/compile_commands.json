@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK -D__DEBUG_TIMER   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/disk_timer.dir/disk.c.o   -c /home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/disk.c",
+  "file": "/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/disk.c"
+},
+{
+  "directory": "/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK -D__DEBUG_TIMER   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/disk_timer.dir/test_disk.c.o   -c /home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/test_disk.c",
+  "file": "/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/test_disk.c"
+},
+{
+  "directory": "/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/disk.dir/disk.c.o   -c /home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/disk.c",
+  "file": "/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/disk.c"
+},
+{
+  "directory": "/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/cmake-build-debug",
+  "command": "/usr/bin/cc -D__DEBUG_DISK   -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   -std=gnu11 -o CMakeFiles/disk.dir/test_disk.c.o   -c /home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/test_disk.c",
+  "file": "/home/eli/Desktop/comp362/Project01ElijahClark/disk/disk/test_disk.c"
+}
+]

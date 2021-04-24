@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   CMakeFiles/disk.dir/disk.c.o CMakeFiles/disk.dir/test_disk.c.o  -o bin/disk 

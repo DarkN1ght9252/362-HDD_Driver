@@ -1,0 +1,1 @@
+/usr/bin/cc  -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0   CMakeFiles/disk_timer.dir/disk.c.o CMakeFiles/disk_timer.dir/test_disk.c.o  -o bin/disk_timer  -lrt 
